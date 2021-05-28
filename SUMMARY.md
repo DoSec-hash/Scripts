@@ -11,3 +11,7 @@
 
 * [Forensic Windows](forensic/forensic-windows.md)
 
+## OTHERS
+
+* [Dorks](others/dorks.md)
+
