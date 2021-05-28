@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Reverse shell](README.md)
+* [TFT](README.md)
 
 ## Pentest <a id="pentest-1"></a>
 
